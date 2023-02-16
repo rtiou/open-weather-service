@@ -1,0 +1,21 @@
+= Weather Stack API
+:toc:
+
+== Analysis
+
+We onboarded this software, but after an analysis from our developer team, we figured out that the software is not production ready.
+
+Your task is to improve all necessary points to transform this service into a production-ready service.
+
+=== Weather Stack
+
+https://weatherstack.com/[Weather Stack API] provide free information about weather.
+
+==== Account
+
+You can create your free account using this https://weatherstack.com/signup/free[link].
+
+== Requirements
+
+* This software must be production ready;
+* The software should avoid calling external services about the same city for 30 minutes;
